@@ -13,6 +13,7 @@
 		535FF16E24F8215B00721F29 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 535FF16C24F8215B00721F29 /* Main.storyboard */; };
 		535FF17024F8215C00721F29 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 535FF16F24F8215C00721F29 /* Assets.xcassets */; };
 		535FF17324F8215C00721F29 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 535FF17124F8215C00721F29 /* LaunchScreen.storyboard */; };
+		535FF17B24F82A8C00721F29 /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535FF17A24F82A8C00721F29 /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		535FF16F24F8215C00721F29 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		535FF17224F8215C00721F29 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		535FF17424F8215C00721F29 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		535FF17A24F82A8C00721F29 /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				535FF16F24F8215C00721F29 /* Assets.xcassets */,
 				535FF17124F8215C00721F29 /* LaunchScreen.storyboard */,
 				535FF17424F8215C00721F29 /* Info.plist */,
+				535FF17A24F82A8C00721F29 /* MapForItinerary.swift */,
 			);
 			path = GitUseExample1;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				535FF17B24F82A8C00721F29 /* MapForItinerary.swift in Sources */,
 				535FF16B24F8215B00721F29 /* ViewController.swift in Sources */,
 				535FF16724F8215B00721F29 /* AppDelegate.swift in Sources */,
 				535FF16924F8215B00721F29 /* SceneDelegate.swift in Sources */,
